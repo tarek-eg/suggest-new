@@ -17,7 +17,6 @@ tmp
 public/css/main.css
 
 #config files
-config/config
 
 # API keys and secrets
 .env
@@ -33,3 +32,4 @@ bower_components
 # OS metadata
 .DS_Store
 Thumbs.db
+config/config.json
